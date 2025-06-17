@@ -6,7 +6,7 @@ Passionate and results-driven game developer with strong experience in building 
 
 
 Casino Game
-[https://https://casino-muxin.vercel.app](https://casino-muxin.vercel.app/)
+[https://casino-muxin.vercel.app](https://casino-muxin.vercel.app/)
 ![image](https://github.com/user-attachments/assets/125c3fa7-c448-44bf-a5ab-c36bc8fa17d9)
 
 
