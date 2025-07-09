@@ -14,3 +14,4 @@ Conflip Game
 <img width="1920" alt="Home _ Coinflip Popup - Choose coin" src="https://github.com/user-attachments/assets/a1e26fe4-801b-4dec-afb4-d7a4d238cffa" />
 
  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=cornel-cp&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
+ <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=cornel-cp&layout=compact&langs_count=8&theme=blue-green"/>
