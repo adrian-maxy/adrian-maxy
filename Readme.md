@@ -2,21 +2,8 @@
 
 Passionate and results-driven game developer with strong experience in building immersive 2D and 3D games using Phaser.js and Unity. Skilled in architecting game mechanics, optimizing performance, and crafting engaging player experiences across web and mobile platforms.
 
-![Untitled-1](https://github.com/user-attachments/assets/f99b1d30-f0dd-4b64-989f-475b675ea1fc)
-
-![Coiflip](https://github.com/user-attachments/assets/c87d711c-13a4-4f9b-8bbf-4c0458e38ee4)
-
-Casino Game
-[https://casino-muxin.vercel.app](https://casino-muxin.vercel.app/)
-![image](https://github.com/user-attachments/assets/125c3fa7-c448-44bf-a5ab-c36bc8fa17d9)
-
-
-
-
-
-
-Conflip Game
-<img width="1920" alt="Home _ Coinflip Popup - Choose coin" src="https://github.com/user-attachments/assets/a1e26fe4-801b-4dec-afb4-d7a4d238cffa" />
+<img width="1920" height="1080" alt="combine" src="https://github.com/user-attachments/assets/7aa46279-0358-4742-b29a-dd8be10b6d99" />
+<img width="1920" height="1080" alt="combine" src="https://github.com/user-attachments/assets/ddac5c09-88e9-488f-a901-ce48b4cc24c4" />
 
 <a href="https://github.com/cornel-cp">
  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=cornel-cp&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
