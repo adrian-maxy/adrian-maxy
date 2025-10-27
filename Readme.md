@@ -9,3 +9,6 @@ Passionate and results-driven game developer with strong experience in building 
  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=cornel-cp&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=cornel-cp&layout=compact&langs_count=8&theme=blue-green"/>
 </a>
+
+ <!--<img src="https://openomy.app/svg?repo=cornel-cp/cornel-cp&chart=bubble&latestMonth=12" target="_blank" alt="Contribution Leaderboard" style="display: block; width: 100%;" /> -->
+ 
